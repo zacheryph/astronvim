@@ -2,6 +2,10 @@
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
+## MIGRATED
+
+AstroNvim configuration is held within my `dotfiles` repository.
+
 ## 🛠️ Installation
 
 #### Make a backup of your current nvim and shared folder
